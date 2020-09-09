@@ -11,7 +11,3 @@ python main.py
 ```
 It will take some time to check all 230 servers.
 
-
-# TO-DO
-* Currently working on being able to choose from which region the servers will be checked for example: only European serves.
-* Next thing will be making it faster by checking multitple servers at the same time.
